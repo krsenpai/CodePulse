@@ -1,0 +1,7 @@
+POST http://localhost:8080/api/execute
+Content-Type: application/json
+
+{
+  "code": "System.out.println(\"Hello CodePulse\");",
+  "input": ""
+}
